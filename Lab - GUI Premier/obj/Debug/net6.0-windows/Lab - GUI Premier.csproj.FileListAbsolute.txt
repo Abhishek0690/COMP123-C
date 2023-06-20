@@ -1,0 +1,17 @@
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Lab - GUI Premier\bin\Debug\net6.0-windows\Lab - GUI Premier.exe
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Lab - GUI Premier\bin\Debug\net6.0-windows\Lab - GUI Premier.deps.json
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Lab - GUI Premier\bin\Debug\net6.0-windows\Lab - GUI Premier.runtimeconfig.json
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Lab - GUI Premier\bin\Debug\net6.0-windows\Lab - GUI Premier.dll
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Lab - GUI Premier\bin\Debug\net6.0-windows\Lab - GUI Premier.pdb
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Lab - GUI Premier\obj\Debug\net6.0-windows\Lab - GUI Premier.csproj.AssemblyReference.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Lab - GUI Premier\obj\Debug\net6.0-windows\Lab - GUI Premier.csproj.GenerateResource.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Lab - GUI Premier\obj\Debug\net6.0-windows\Lab - GUI Premier.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Lab - GUI Premier\obj\Debug\net6.0-windows\Lab - GUI Premier.AssemblyInfoInputs.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Lab - GUI Premier\obj\Debug\net6.0-windows\Lab - GUI Premier.AssemblyInfo.cs
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Lab - GUI Premier\obj\Debug\net6.0-windows\Lab - GUI Premier.csproj.CoreCompileInputs.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Lab - GUI Premier\obj\Debug\net6.0-windows\Lab - GUI Premier.dll
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Lab - GUI Premier\obj\Debug\net6.0-windows\refint\Lab - GUI Premier.dll
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Lab - GUI Premier\obj\Debug\net6.0-windows\Lab - GUI Premier.pdb
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Lab - GUI Premier\obj\Debug\net6.0-windows\Lab - GUI Premier.genruntimeconfig.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Lab - GUI Premier\obj\Debug\net6.0-windows\ref\Lab - GUI Premier.dll
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Lab - GUI Premier\obj\Debug\net6.0-windows\Lab___GUI_Premier.Form2.resources
