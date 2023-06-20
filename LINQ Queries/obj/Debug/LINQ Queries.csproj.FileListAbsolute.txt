@@ -1,0 +1,8 @@
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LINQ Queries\bin\Debug\LINQ Queries.exe.config
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LINQ Queries\bin\Debug\LINQ Queries.exe
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LINQ Queries\bin\Debug\LINQ Queries.pdb
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LINQ Queries\obj\Debug\LINQ Queries.csproj.AssemblyReference.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LINQ Queries\obj\Debug\LINQ Queries.csproj.SuggestedBindingRedirects.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LINQ Queries\obj\Debug\LINQ Queries.csproj.CoreCompileInputs.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LINQ Queries\obj\Debug\LINQ Queries.exe
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LINQ Queries\obj\Debug\LINQ Queries.pdb
