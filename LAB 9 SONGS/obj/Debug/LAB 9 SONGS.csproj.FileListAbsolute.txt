@@ -1,0 +1,8 @@
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB 9 SONGS\bin\Debug\LAB 9 SONGS.exe.config
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB 9 SONGS\bin\Debug\LAB 9 SONGS.exe
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB 9 SONGS\bin\Debug\LAB 9 SONGS.pdb
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB 9 SONGS\obj\Debug\LAB 9 SONGS.csproj.AssemblyReference.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB 9 SONGS\obj\Debug\LAB 9 SONGS.csproj.SuggestedBindingRedirects.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB 9 SONGS\obj\Debug\LAB 9 SONGS.csproj.CoreCompileInputs.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB 9 SONGS\obj\Debug\LAB 9 SONGS.exe
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB 9 SONGS\obj\Debug\LAB 9 SONGS.pdb
