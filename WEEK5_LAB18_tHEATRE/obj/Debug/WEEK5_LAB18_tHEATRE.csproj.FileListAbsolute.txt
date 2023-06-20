@@ -1,0 +1,8 @@
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\WEEK5_LAB18_tHEATRE\obj\Debug\WEEK5_LAB18_tHEATRE.csproj.AssemblyReference.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\WEEK5_LAB18_tHEATRE\obj\Debug\WEEK5_LAB18_tHEATRE.csproj.SuggestedBindingRedirects.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\WEEK5_LAB18_tHEATRE\obj\Debug\WEEK5_LAB18_tHEATRE.csproj.CoreCompileInputs.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\WEEK5_LAB18_tHEATRE\bin\Debug\WEEK5_LAB18_tHEATRE.exe.config
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\WEEK5_LAB18_tHEATRE\bin\Debug\WEEK5_LAB18_tHEATRE.exe
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\WEEK5_LAB18_tHEATRE\bin\Debug\WEEK5_LAB18_tHEATRE.pdb
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\WEEK5_LAB18_tHEATRE\obj\Debug\WEEK5_LAB18_tHEATRE.exe
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\WEEK5_LAB18_tHEATRE\obj\Debug\WEEK5_LAB18_tHEATRE.pdb
