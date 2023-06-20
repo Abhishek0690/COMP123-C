@@ -1,0 +1,17 @@
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Week10_Calculator\bin\Debug\net6.0-windows\Week10_Calculator.exe
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Week10_Calculator\bin\Debug\net6.0-windows\Week10_Calculator.deps.json
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Week10_Calculator\bin\Debug\net6.0-windows\Week10_Calculator.runtimeconfig.json
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Week10_Calculator\bin\Debug\net6.0-windows\Week10_Calculator.dll
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Week10_Calculator\bin\Debug\net6.0-windows\Week10_Calculator.pdb
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Week10_Calculator\obj\Debug\net6.0-windows\Week10_Calculator.csproj.AssemblyReference.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Week10_Calculator\obj\Debug\net6.0-windows\Week10_Calculator.Form1.resources
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Week10_Calculator\obj\Debug\net6.0-windows\Week10_Calculator.csproj.GenerateResource.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Week10_Calculator\obj\Debug\net6.0-windows\Week10_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Week10_Calculator\obj\Debug\net6.0-windows\Week10_Calculator.AssemblyInfoInputs.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Week10_Calculator\obj\Debug\net6.0-windows\Week10_Calculator.AssemblyInfo.cs
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Week10_Calculator\obj\Debug\net6.0-windows\Week10_Calculator.csproj.CoreCompileInputs.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Week10_Calculator\obj\Debug\net6.0-windows\Week10_Calculator.dll
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Week10_Calculator\obj\Debug\net6.0-windows\refint\Week10_Calculator.dll
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Week10_Calculator\obj\Debug\net6.0-windows\Week10_Calculator.pdb
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Week10_Calculator\obj\Debug\net6.0-windows\Week10_Calculator.genruntimeconfig.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Week10_Calculator\obj\Debug\net6.0-windows\ref\Week10_Calculator.dll
