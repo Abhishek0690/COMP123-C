@@ -1,0 +1,17 @@
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Fraction GUI\bin\Debug\net6.0-windows\Fraction GUI.exe
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Fraction GUI\bin\Debug\net6.0-windows\Fraction GUI.deps.json
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Fraction GUI\bin\Debug\net6.0-windows\Fraction GUI.runtimeconfig.json
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Fraction GUI\bin\Debug\net6.0-windows\Fraction GUI.dll
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Fraction GUI\bin\Debug\net6.0-windows\Fraction GUI.pdb
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Fraction GUI\obj\Debug\net6.0-windows\Fraction GUI.csproj.AssemblyReference.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Fraction GUI\obj\Debug\net6.0-windows\Fraction_GUI.Form1.resources
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Fraction GUI\obj\Debug\net6.0-windows\Fraction GUI.csproj.GenerateResource.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Fraction GUI\obj\Debug\net6.0-windows\Fraction GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Fraction GUI\obj\Debug\net6.0-windows\Fraction GUI.AssemblyInfoInputs.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Fraction GUI\obj\Debug\net6.0-windows\Fraction GUI.AssemblyInfo.cs
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Fraction GUI\obj\Debug\net6.0-windows\Fraction GUI.csproj.CoreCompileInputs.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Fraction GUI\obj\Debug\net6.0-windows\Fraction GUI.dll
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Fraction GUI\obj\Debug\net6.0-windows\refint\Fraction GUI.dll
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Fraction GUI\obj\Debug\net6.0-windows\Fraction GUI.pdb
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Fraction GUI\obj\Debug\net6.0-windows\Fraction GUI.genruntimeconfig.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\Fraction GUI\obj\Debug\net6.0-windows\ref\Fraction GUI.dll
