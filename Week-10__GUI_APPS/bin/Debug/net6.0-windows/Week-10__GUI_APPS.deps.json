@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Week-10__GUI_APPS/1.0.0": {
+        "runtime": {
+          "Week-10__GUI_APPS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week-10__GUI_APPS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
