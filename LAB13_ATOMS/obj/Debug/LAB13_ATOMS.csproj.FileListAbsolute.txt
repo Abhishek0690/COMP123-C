@@ -1,0 +1,8 @@
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB13_ATOMS\obj\Debug\LAB13_ATOMS.csproj.AssemblyReference.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB13_ATOMS\obj\Debug\LAB13_ATOMS.csproj.SuggestedBindingRedirects.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB13_ATOMS\obj\Debug\LAB13_ATOMS.csproj.CoreCompileInputs.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB13_ATOMS\bin\Debug\LAB13_ATOMS.exe.config
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB13_ATOMS\bin\Debug\LAB13_ATOMS.exe
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB13_ATOMS\bin\Debug\LAB13_ATOMS.pdb
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB13_ATOMS\obj\Debug\LAB13_ATOMS.exe
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB13_ATOMS\obj\Debug\LAB13_ATOMS.pdb
