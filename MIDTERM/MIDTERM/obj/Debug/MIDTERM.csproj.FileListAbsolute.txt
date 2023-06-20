@@ -1,0 +1,9 @@
+D:\College\COMP123 - C#\MIDTERM\MIDTERM\obj\Debug\MIDTERM.csproj.AssemblyReference.cache
+D:\College\COMP123 - C#\MIDTERM\MIDTERM\obj\Debug\MIDTERM.csproj.SuggestedBindingRedirects.cache
+D:\College\COMP123 - C#\MIDTERM\MIDTERM\obj\Debug\MIDTERM.csproj.CoreCompileInputs.cache
+D:\College\COMP123 - C#\MIDTERM\MIDTERM\bin\Debug\MIDTERM.exe.config
+D:\College\COMP123 - C#\MIDTERM\MIDTERM\bin\Debug\MIDTERM.exe
+D:\College\COMP123 - C#\MIDTERM\MIDTERM\bin\Debug\MIDTERM.pdb
+D:\College\COMP123 - C#\MIDTERM\MIDTERM\obj\Debug\MIDTERM.exe
+D:\College\COMP123 - C#\MIDTERM\MIDTERM\obj\Debug\MIDTERM.pdb
+D:\College\COMP123 - C#\MIDTERM\MIDTERM\obj\Debug\MIDTERM.exe.config
