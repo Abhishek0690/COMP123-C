@@ -1,0 +1,8 @@
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\fraction\bin\Debug\fraction.exe.config
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\fraction\bin\Debug\fraction.exe
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\fraction\bin\Debug\fraction.pdb
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\fraction\obj\Debug\fraction.csproj.AssemblyReference.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\fraction\obj\Debug\fraction.csproj.SuggestedBindingRedirects.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\fraction\obj\Debug\fraction.csproj.CoreCompileInputs.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\fraction\obj\Debug\fraction.exe
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\fraction\obj\Debug\fraction.pdb
