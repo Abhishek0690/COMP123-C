@@ -1,0 +1,8 @@
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB 6\bin\Debug\LAB 6.exe.config
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB 6\bin\Debug\LAB 6.exe
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB 6\bin\Debug\LAB 6.pdb
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB 6\obj\Debug\LAB 6.csproj.AssemblyReference.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB 6\obj\Debug\LAB 6.csproj.SuggestedBindingRedirects.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB 6\obj\Debug\LAB 6.csproj.CoreCompileInputs.cache
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB 6\obj\Debug\LAB 6.exe
+D:\College\COMP123 - C#\Class Labs\Week1 Lab1\LAB 6\obj\Debug\LAB 6.pdb
